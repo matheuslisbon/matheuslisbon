@@ -1,16 +1,12 @@
-### Hi there 👋
+### Olá Me chamo matheus Eduardo, Sou Estudante de programação com Foco na stack Mern JS, tendo continuo aprendizado
+### Nas Ultimas tecnologias do mercado Javascript !!
+### for(let i = 0; i < pratica ; i++){
+###   console.log('Praticar Sempre')
+###   praticar()
+### }
+👋
 
-<!--
-**matheuslisbon/matheuslisbon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-> Link Instagram : https://www.instagram.com/matheus_lisbon/
+-> Quer convesa comigo ? tirar duvidas ? ou codar *-* ?
+-> Me chama Chama no Wathsapp -> (81) 9 8638-4447
+-> Vamos Nos Conectar <3 
