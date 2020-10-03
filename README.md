@@ -1,4 +1,4 @@
-### Olá Me chamo matheus Eduardo, Sou Estudante de programação com Foco na stack Mern JS, tendo continuo aprendizado
+### Olá Me chamo Matheus Eduardo, Sou Estudante de programação com Foco na stack Mern JS, tendo continuo aprendizado
 ### Nas Ultimas tecnologias do mercado Javascript !!
 ### for(let i = 0; i < pratica ; i++){
 ###   console.log('Praticar Sempre')
