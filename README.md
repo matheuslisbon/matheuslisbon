@@ -1,9 +1,9 @@
 ### Olá Me chamo Matheus Eduardo, Sou Estudante de programação com Foco na stack Mern JS, tendo continuo aprendizado
 ### Nas Ultimas tecnologias do mercado Javascript !!
-### for(let i = 0; i < pratica ; i++){
-###   console.log('Praticar Sempre')
-###   praticar()
-### }
+### 
+### Espero que você goste ! 
+### é um prazer lhe conhecer
+### 
 👋
 
 -> Link Instagram : https://www.instagram.com/matheus_lisbon/
