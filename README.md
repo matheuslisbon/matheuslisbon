@@ -1,6 +1,6 @@
-### Olá Me chamo Matheus Eduardo, Sou Estudante de programação com Foco na stack Mern JS, tendo continuo aprendizado
-### Nas Ultimas tecnologias do mercado Javascript !!
+# Diego Fernandes 
 
+FULLSTACK @AMODEV.
 
 👋
 
