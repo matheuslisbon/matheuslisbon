@@ -24,8 +24,8 @@ Sou [Matheus] e aqui você encontrará meus projetos, ideias e colaborações. �
 ---
 
 ## 📈 Estatísticas do GitHub
-![Suas estatísticas](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=radical)  
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=radical)
+![Suas estatísticas](https://github-readme-stats.vercel.app/api?username=matheuslisbon&show_icons=true&theme=radical)  
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=matheuslisbon&layout=compact&theme=radical)
 
 ---
 
