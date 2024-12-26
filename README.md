@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Matheus Lisbon
 
-**`Desenvolvedoro FullStack`**
+**`Desenvolvedor FullStack`**
 
 Me chamo Matheus, tenho 21 anos e sou natural de Pernambuco. Estou cursando Ciências de Computação e sou apaixonado por tecnologia.
 
