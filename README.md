@@ -25,6 +25,5 @@ Sou [Matheus] e aqui você encontrará meus projetos, ideias e colaborações. �
 
 ## 💬 Vamos conversar!
 Quer colaborar ou trocar ideias? Entre em contato comigo:  
-[📧 Email](mailto:matheuslisbonweb@gmail.com) | [🌐 LinkedIn](matheus_lisbon) 
-
+[📧 Email](mailto:matheuslisbonweb@gmail.com)
 ---
