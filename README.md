@@ -2,7 +2,7 @@
 
 **`Desenvolvedora FullStack`**
 
-Me chamo Matheus, tenho 21 anos e sou natural de Pernambuco. estou cursando Ciencias de Computação, Sou apaixonado por tecnologia
+Me chamo Matheus, tenho 21 anos e sou natural de Pernambuco. Estou cursando Ciências de Computação e sou apaixonado por tecnologia.
 
 ---
 
@@ -121,3 +121,11 @@ Me chamo Matheus, tenho 21 anos e sou natural de Pernambuco. estou cursando Cien
   />
 
 </p>
+
+---
+
+### 📧 Contato
+
+<a href="mailto:matheuslisbonweb@gmail.com">
+  <img src="https://img.shields.io/badge/Email-matheuslisbonweb%40gmail.com-blue?style=flat&logo=gmail" alt="Email" />
+</a>
