@@ -3,11 +3,9 @@
 Sou [Matheus] e aqui você encontrará meus projetos, ideias e colaborações. 🌟  
 
 ## 👨‍💻 Sobre mim
-- 🎓 [Sua formação, por exemplo: Estudante de Ciência da Computação/Desenvolvedor Full-Stack]
-- 🌱 Atualmente aprendendo: [Tecnologias ou habilidades em foco]
-- 💼 Trabalhando em: [Projeto ou empresa atual]
-- 💡 Interesses: [Inteligência Artificial, Front-End, Desenvolvimento de Jogos, etc.]
-- 📫 Como me encontrar: [Seu email/linkedin/twitter]
+- 🎓 [Estudante de Ciência da Computação/Desenvolvedor Full-Stack]
+- 💡 Interesses: [Inteligência Artificial, Front-End, Backend, Mobile, etc.]
+- 📫 Como me encontrar: [Matheuslisbonweb@gmail.com]
 
 ---
 
@@ -21,25 +19,12 @@ Sou [Matheus] e aqui você encontrará meus projetos, ideias e colaborações. �
 ☁️ **Plataformas & Serviços**  
 [Ex. AWS, Firebase, etc.]
 
----
 
-## 📈 Estatísticas do GitHub
-![Suas estatísticas](https://github-readme-stats.vercel.app/api?username=matheuslisbon&show_icons=true&theme=radical)  
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=matheuslisbon&layout=compact&theme=radical)
-
----
-
-## 📌 Projetos em Destaque
-🌟 [Nome do Projeto](Link para o repositório)  
-Descrição breve do que ele faz.
-
-🌟 [Outro Projeto](Link para o repositório)  
-Descrição breve do que ele faz.
 
 ---
 
 ## 💬 Vamos conversar!
 Quer colaborar ou trocar ideias? Entre em contato comigo:  
-[📧 Email](mailto:SEU_EMAIL) | [🌐 LinkedIn](LINK_DO_SEU_PERFIL) | [🐦 Twitter](LINK_DO_SEU_TWITTER)
+[📧 Email](mailto:matheuslisbonweb@gmail.com) | [🌐 LinkedIn](matheus_lisbon) 
 
 ---
