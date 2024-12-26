@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Matheus Lisbon
+# Matheus Lisbon
 
 **`Desenvolvedor FullStack`**
 
